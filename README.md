@@ -6,3 +6,7 @@ wget --no-check-certificate "https://raw.githubusercontent.com/alkhanet26/xray-w
 ```
 
 tunggu sampai selesai lalu reboot router
+
+
+Credit
+Andovi Sanchez
